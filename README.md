@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Kulkarni
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and AI field.
 - 🌱 I’m actively looking forward for jobs related to Data Scientist and AI/ML Engineer
 - 💞️ I’m looking to collaborate on Data Science field
 - 📫 How to reach me : amit.kulkarni.998@gmail.com or +918788001742
